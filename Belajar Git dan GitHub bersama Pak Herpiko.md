@@ -107,6 +107,6 @@ Perintah `git clone [alamat repo]` ini akan memerintah kepada Git untuk mengundu
 Setelah proses `clone` selesai, kita dapat bekerja misalnya mengubah dan atau menambahkan suatu berkas. Setiap kali melakukan perubahan, kita perlu mencatat commit-nya pada git dan mendorongnya ke github.com dengan perintah `pull`. Cara kerja seperti ini dapat dijadikan sebagai salah satu sistem cadangan/_back up_ berkas.
 
 
-[1]:file:///home/faiq/blankon%20pengembang/gambar/1.png "New Repository"
-[2]:file:///home/faiq/blankon%20pengembang/gambar/2.png "Nama Repositori"
-[3]: file:///home/faiq/blankon%20pengembang/gambar/3.png "Alamat Repositori"
+[1]:https://github.com/FaiqAminuddin/BlankOn-Uluwatu-Dokumentasi/blob/master/gambar/1.png "New Repository"
+[2]:https://github.com/FaiqAminuddin/BlankOn-Uluwatu-Dokumentasi/blob/master/gambar/2.png "Nama Repositori"
+[3]:https://github.com/FaiqAminuddin/BlankOn-Uluwatu-Dokumentasi/blob/master/gambar/3.png "Alamat Repositori"
